@@ -1,5 +1,8 @@
 _repo: Iolaus-An-Anthology-of-Friendship_67355
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67355-h/images/cover.jpg
 creator:
   author:
     agent_name: Carpenter, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/657
     wikipedia: https://en.wikipedia.org/wiki/Edward_Carpenter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67355#Iolaus-An-Anthology-of-Friendship
 gutenberg_issued: '2022-02-07'
 identifiers:
   gutenberg: '67355'
